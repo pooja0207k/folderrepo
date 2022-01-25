@@ -3,4 +3,4 @@
 Today is my birthday
 Hello I am pooja
 Do you know me?
-After switching to master branch
+Created a branch named duplicate 
